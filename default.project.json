@@ -1,0 +1,15 @@
+{
+    "name": "GeometryDash-Plugins",
+    "tree": {
+        "$className": "DataModel",
+        "ServerScriptService": {
+            "$className": "ServerScriptService",
+            "Plugins": {
+                "$path": "plugins/src",
+                "Packages": {
+                    "$path": "plugins/Packages"
+                }
+            }
+        }
+    }
+}
